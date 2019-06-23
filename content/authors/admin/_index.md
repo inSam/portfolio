@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter. statistical learning, optimization techniques, and neural inspired computer architecture. 
+bio: My research interests include statistical learning, optimization techniques, and neural inspired computer architecture. 
 
 interests:
 - Artificial Intelligence
@@ -61,5 +61,5 @@ user_groups:
 - Visitors
 ---
 
-Sam Xu is a student at Stanford University. My research interests include distributed robotics, mobile computing and programmable matter. statistical learning, optimization techniques, and neural inspired computer architecture.
+Sam Xu is a student at Stanford University. My research interests include statistical learning, optimization techniques, and neural inspired computer architecture.
 
