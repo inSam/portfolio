@@ -32,28 +32,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
-
-[[experience]]
   title = "System Architecture Intern"
   company = "NVIDIA"
   company_url = ""
   location = "Santa Clara, California"
-  date_start = "2019-06-01"
-  date_end = "2019-09-15"
+  date_start = "2018-06-01"
+  date_end = "2018-12-31"
   description = """
-  Tests:
   
-    * Simulated communication latency between hardware units under different conditions 
-    * Analyzed code coverage information across thousands of compute and graphic tests by building a database flow 
-	* Generated new compute and graphic tests that maximized code coverage using the aforementioned database 
+  * Simulated communication latency between hardware units under different conditions 
+  * Analyzed code coverage information across thousands of compute and graphic tests by building a database flow 
+  * Generated new compute and graphic tests that maximized code coverage using the aforementioned database 
   """
 
 [[experience]]
