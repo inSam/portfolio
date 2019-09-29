@@ -25,21 +25,27 @@ interests:
 - Computer Architecture
 - Computer Vision
 
+<!-- education: -->
+<!--   courses: -->
+<!--   - course: Coterminal, Masters in Electrical Engineering -->
+<!--     institution: Stanford University -->
+<!--     year: 2022 -->
+
+<!--   - course: BSc in Electrical Engineering -->
+<!-- 	institution: Stanford University -->
+<!-- 	year: 2021 -->
+
 education:
   courses:
-  - course: Coterminal, Masters in Electrical Engineering
+  - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2022
-
-  <!-- - course: BSc in Electrical Engineering -->
-  <!--   institution: Stanford University -->
-  <!-- 	year: 2021 -->
-  <!-- - course: MEng in Artificial Intelligence -->
-  <!--   institution: Massachusetts Institute of Technology -->
-  <!--   year: 2009 -->
-   - course: BSc in Artificial Intelligence
-     institution: Massachusetts Institute of Technology
-     year: 2008
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
