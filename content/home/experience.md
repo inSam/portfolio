@@ -52,6 +52,24 @@ date_format = "Jan 2006"
   location = "New York, NY"
   date_start = "2016-09-01"
   date_end = "2018-06-01"
-  description = """Performs low-level local feature analysis of natural, medical, and other different groups of images """
+  description = """Performed low-level local feature analysis of natural, medical, and other different groups of images. Research project focused  on computational/statistical analysis of human vision and MRI images"""
+
+[[experience]]
+  title = "Data Analyst Intern"
+  company = "Caine Mitter& Associates Incorporated"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2017-06-01"
+  date_end = "2017-08-31"
+  description = """Performed quantitative analysis of municipal bond data. Created a digital database of Request for Proposals to be used for work projection. """
+
+[[experience]]
+  title = "IT Project Management Intern "
+  company = "Guardian Life Insurance"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2016-06-01"
+  date_end = "2016-09-01"
+  description = """Organized project statuses and the software development life cycle (SDLC) process using the Waterfall Agile model. Engaged in a project to migrate the company’s datacenter into the AWS cloud platform. """
 
 +++
