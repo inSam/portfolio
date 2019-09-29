@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Electrical Engineering
+  - course: Coterminal, Masters and BSc Student of Electrical Engineering
     institution: Stanford University
     year: 2021
   <!-- - course: MEng in Artificial Intelligence -->
@@ -61,5 +61,5 @@ user_groups:
 - Visitors
 ---
 
-Sam Xu is a student at Stanford University. My research interests include statistical learning, optimization techniques, and neural inspired computer architecture.
+Sam Xu is a student at Stanford University. His research interests include statistical learning, optimization techniques, and neural inspired computer architecture.
 
