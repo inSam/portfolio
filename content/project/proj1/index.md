@@ -1,8 +1,8 @@
 ---
 title: Music Generation with LSTMs
-summary: An example of linking directly to an external project website using `external_link`.
+summary: We explore several techniques for generating music using deep neural networks,specifically Long Short-Term Memory networks (LSTMs) and attention-based LSTMs.
 tags:
-- Demo
+- NL
 date: "2018-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
