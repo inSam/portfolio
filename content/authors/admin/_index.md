@@ -45,7 +45,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/inSam
-- icon: linkedIn
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sam-x-081551125
 # Link to a PDF of your resume/CV from the About widget.
