@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   title = "Student Researcher"
   company = "Stanford Molecular Imaging Instrumentation Laboratory"
   company_url = ""
-  location = "Santa Clara, California"
+  location = "Palo Alto, California"
   date_start = "2018-06-01"
   date_end = "2018-12-31"
   description = """
@@ -44,5 +44,14 @@ date_format = "Jan 2006"
   * Executed research, constructed models, and communicated findings to senior lab members 
   * Created metrics and codebase for automated reporting of model accuracy 
   """
+
+[[experience]]
+  title = "Student Researcher"
+  company = "Weill Cornell Medical College"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2016-09-01"
+  date_end = "2018-06-01"
+  description = """Performs low-level local feature analysis of natural, medical, and other different groups of images """
 
 +++
