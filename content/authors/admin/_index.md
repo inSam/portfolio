@@ -37,15 +37,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Coterminal, Masters in Electrical Engineering
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2022
+  - course: BSc in Electrical Engineering
+    institution: Stanford University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
