@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
   * Simulated communication latency between hardware units under different conditions 
   * Analyzed code coverage information across thousands of compute and graphic tests by building a database flow 
