@@ -21,7 +21,7 @@ subtitle = ""
   description = "Design data pipelines to tackle real-life problems."
   
 [[feature]]
-  icon = "Microchip"
+  icon = "microchip"
   icon_pack = "fas"
   name = "Hardware"
   description = "Build the correct hardware and computer system for the domain specific task at hand."
