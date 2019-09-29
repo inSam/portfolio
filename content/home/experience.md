@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "System Architecture Intern"
+  company = "NVIDIA"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Santa Clara, California"
+  date_start = "2019-06-01"
+  date_end = "2019-09-15"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+    *Simulated communication latency between hardware units under different conditions 
+    *Analyzed code coverage information across thousands of compute and graphic tests by building a database flow 
+	*Generated new compute and graphic tests that maximized code coverage using the aforementioned database 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Student Researcher"
+  company = "Stanford Molecular Imaging Instrumentation Laboratory"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2018-06-01"
+  date_end = "2018-12-31"
+  description = """
+    *Developed a 3D generative adversarial network model for automatic PET/MR attenuation map generation 
+    *Executed research, constructed models, and communicated findings to senior lab members 
+    *Created metrics and codebase for automated reporting of model accuracy 
+  """
 
 +++
