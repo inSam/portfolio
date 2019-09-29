@@ -30,9 +30,9 @@ education:
   - course: Coterminal, Masters in Electrical Engineering
     institution: Stanford University
     year: 2022
-  - course: BSc in Electrical Engineering
-	institution: Stanford University
-	year: 2021
+  <!-- - course: BSc in Electrical Engineering -->
+  <!--   institution: Stanford University -->
+  <!-- 	year: 2021 -->
   <!-- - course: MEng in Artificial Intelligence -->
   <!--   institution: Massachusetts Institute of Technology -->
   <!--   year: 2009 -->
